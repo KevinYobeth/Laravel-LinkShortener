@@ -19,6 +19,8 @@ class CreateLinksTable extends Migration
             $table->foreignId('user_id')->references('id')->on('users');
             $table->string('name');
             $table->string('link');
+            $table->boolean('status')->default(1);
+            $table->integer('counter')->default(0);
             $table->timestamps();
         });
     }
