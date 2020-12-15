@@ -12,8 +12,7 @@
                 <div class="mt-10 sm:mt-0">
                     <div class="md:grid md:grid-cols-3 md:gap-6">
                         <div class="flex mt-5 md:mt-0 md:col-span-1 justify-center items-center">
-                            <h1 class="text-3xl ml-7">Link Shortener</h1>
-                            {{-- <img class="block h-40" src="{{ asset('img/logo.png') }}" alt=""> --}}
+                            <h1 class="text-3xl md:ml-7 sm:ml-0">Link Shortener</h1>
                         </div>
 
                         <div class="mt-5 md:mt-0 md:col-span-2">
