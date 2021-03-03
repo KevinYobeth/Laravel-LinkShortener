@@ -87,6 +87,18 @@
                                         @endforeach
                                     </tbody>
                                 </table>
+
+                                @if($links->isEmpty())
+                                <div class="flex flex-col items-center justify-center py-20 space-y-2">
+                                    <h1 class="text-center">No link yet?</h1>
+                                    <a href="{{ route('shortener') }}">
+                                        <button
+                                            class="w-64 bg-gray-700 p-2 rounded-md shadow-md text-white hover:bg-gray-900">
+                                            Create one here!
+                                        </button>
+                                    </a>
+                                </div>
+                                @endif
                             </div>
                         </div>
                     </div>
