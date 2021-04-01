@@ -36,22 +36,17 @@ A clean, simple looking link shortener built using Laravel 8 with Tailwind CSS. 
 <a href="https://www.buymeacoffee.com/kevinyobeth"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=kevinyobeth&button_colour=40DCA5&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ## App Preview
+### Login
+![alt](public/img/thumb/01_image.jpg)
 
 ### Dashboard
+![alt](public/img/thumb/02_image.jpg)
+![alt](public/img/thumb/05_image.jpg)
+### Create Link 
+![alt](public/img/thumb/03_image.jpg)
 
-![alt](public/img/thumb/02_image.png)
-
-### Link Detail
-
-![alt](public/img/thumb/03_image.png)
-
-### Create Link
-
-![alt](public/img/thumb/04_image.png)
-
-### Login
-
-![alt](public/img/thumb/05_image.png)
+### Link Detail 
+![alt](public/img/thumb/04_image.jpg)
 
 ## Live Preview
 
